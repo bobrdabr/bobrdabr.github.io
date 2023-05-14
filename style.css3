@@ -1,1 +1,16 @@
+body {
+    font-family: sans-serif;
+    color: chartreuse;
+    background-color:black ;
+}
+a{
+
+ color: chartreuse;  
+}
+img{
+
+border: 3px solid chartreuse;
+
+
+}
 
