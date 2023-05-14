@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    
+    background-color: black;
+}
+p,h1,a{
+color: chartreuse;
+}
+img{
+border: 4px solid chartreuse;
+
+}
