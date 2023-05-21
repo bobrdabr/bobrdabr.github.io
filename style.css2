@@ -8,5 +8,13 @@ color: chartreuse;
 }
 img{
 border: 4px solid chartreuse;
-
+}
+img:hover{
+transform: scale(1.02);
+transition:all 1.5s linear ;
+opacity:1 ;
+}
+img{
+opacity:0.2 ;
+border:4px solid chartreuse;
 }
