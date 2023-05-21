@@ -1,16 +1,31 @@
 body {
     font-family: sans-serif;
-    color: chartreuse;
-    background-color:black ;
+    
+    background-color: black;
 }
-a{
+p,h1,a{
+color: chartreuse;
+text-align: center;
 
- color: chartreuse;  
 }
 img{
-
-border: 3px solid chartreuse;
-
+border: 4px solid chartreuse;
+}
+img:hover{
+transform: scale(1.02);
+transition:all 1.5s linear ;
+opacity:1 ;
+}
+img{
+opacity:0.2 ;
+border:4px solid chartreuse;
 
 }
+.center-img {
+  display: block;
+  margin: 0 auto;
+}
+p{
+font-size:30px ;
 
+}
