@@ -1,1 +1,36 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color:chartreuse ;
+}
+a{
+    color:chartreuse;
+}
+img{
+
+border:4px solid chartreuse;
+}
+a:visited{
+color:greenyellow;
+}
+img{
+
+
+margin:35px;
+
+}
+img:hover{
+transform: scale(1.2);
+transition:all 1.5s linear ;
+opacity:1 ;
+}
+img{
+opacity:0.2 ;
+border:4px solid chartreuse;
+}
+h1,h2{
+
+    text-align: center;
+}
+
 
